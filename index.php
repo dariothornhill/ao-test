@@ -1,5 +1,5 @@
 <?php
-
+// Question 1
 function reverse($string)
 {
   echo strlen($string);
@@ -16,6 +16,8 @@ try {
 } catch (Exception $e) {
   //In production we would ship to a logger.
 }
+
+// Question 2
 
 $sdArray = [4, 10, 8, 34, 35, 12, 1, 9, 8, 14, 28];
 $sdArrayCopy = $sdArray;

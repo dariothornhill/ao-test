@@ -30,3 +30,9 @@ CREATE TABLE `table1` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1
 ```
+
+# Run
+
+```bash
+php index.php
+```
